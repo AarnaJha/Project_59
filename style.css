@@ -1,0 +1,37 @@
+body{
+  text-align:center;
+     background:linear-gradient( #42A5F5 0% , #4527A0 100% )
+}
+    #h1{
+  color:#880E4F;
+  }
+#h2{
+  
+  color:#880E4F;
+}
+#hobby{
+   border-radius:100px;
+  width:300px;
+}
+p{
+  color:#FFFF00;
+  font-size:30px;
+}
+.menu{
+    float: right;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+#name{
+    font-family: Roboto;
+}
+
+#Books{
+    text-decoration: underline;
+    background-color: aqua;
+}
